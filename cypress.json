@@ -1,0 +1,7 @@
+{
+    "env": {
+        "baseUrl": "https://siiliwall.netlify.app/"
+    },
+    "viewportWidth": 1500,
+    "viewportHeight": 1500
+}
